@@ -16,7 +16,6 @@ Janney
 Paona
 Support
 test
-Ouija
 Hellsing
 Yuuki
 Astratt
